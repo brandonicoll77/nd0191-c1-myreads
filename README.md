@@ -14,6 +14,8 @@ Install dependencies:
 
 npm install
 
+cd starter
+
 Start the development server:
 
 npm start
